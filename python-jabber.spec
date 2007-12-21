@@ -10,6 +10,7 @@ Source0: %{pkgname}.tar.bz2
 License: LGPL
 URL: http://jabberpy.sf.net/
 Group: Development/Python
+BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires: python-devel
 BuildArch: noarch
 
