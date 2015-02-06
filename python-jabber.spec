@@ -1,5 +1,5 @@
 %define version 0.4
-%define release %mkrel 10
+%define release 11
 %define pkgname jabberpy%{version}-0
 
 Summary: Python jabber protocol module 
